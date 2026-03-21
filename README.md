@@ -1,8 +1,8 @@
 Smart Library Management System 
 ----
-This project was made using python and using some python modules like json, datetime and tkinter.
-This project has two versions The console and the GUI version.
-Both version are made using python and the libraries stated above..
+-This project was made using python and using some python modules like json, datetime and tkinter.
+-This project has two versions The console and the GUI version.
+-Both version are made using python and the libraries stated above..
 
 The Console version 
 ----
