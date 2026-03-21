@@ -15,6 +15,6 @@ The Gui app version
 ----
 The GUI version also runs on the same logic as the console version.
 It is built using the python library tkinter.
-It has a graphical user interface for users ro interact with the system.
+It has a graphical user interface for users to interact with the system.
 It has different windows for user and Admin pages.
 For the users they have options to singup or login using their given id and password
